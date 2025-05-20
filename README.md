@@ -1,3 +1,5 @@
 # CNN_DNN_particle_identification
 
-This repository contains a jupyter-notebook that explores a hybrid method that combines Convolutional Neural Network and Deep Neural Network to enhance the particle-identification capabilities at a high-energy collider experiment, sPHENIX. An initial study was performed within the Undergraduate Research Opportunities Program (UROP). 
+This repository contains a jupyter-notebook that explores a hybrid method that combines Convolutional Neural Network and Deep Neural Network to enhance the particle-identification capabilities at a high-energy collider experiment, sPHENIX. The initial study focused on the electromagnetic particle identification using signatures deposited on a calorimeter. It was performed within the Undergraduate Research Opportunities Program (UROP). 
+
+Data was generated using standard sPHENIX detector simulation coresoftware and 
